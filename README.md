@@ -84,7 +84,7 @@ class Client(discord.Client):
 Client().run(os.getenv("TOKEN"), bot=False)
 ```
 
-This Code is from [this tutorial](https://www.youtube.com). If you have any doubts regarding this, feel free to contact me through my [Discord Server](https://dsc.gg/phantom).
+This Code is from [this tutorial](https://youtu.be/TfZcXMWyw4s). If you have any doubts regarding this, feel free to contact me through my [Discord Server](https://dsc.gg/phantom).
 
 **DO NOT GIVE YOUR TOKEN TO OTHERS!**
 
