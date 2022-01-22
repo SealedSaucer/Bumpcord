@@ -1,4 +1,4 @@
-# BumpCord
+# Bumpcord
 A code that can make an account bump your discord server 24/7!
 
 ----
@@ -96,4 +96,4 @@ Use [uptimerobot.com](https://uptimerobot.com) to make your repl online 24/7.
 
 ----
 
-> BumpCord © 2021 by SealedSaucer is licensed under Attribution 4.0 International 
+> Bumpcord © 2021 by SealedSaucer is licensed under Attribution 4.0 International 
